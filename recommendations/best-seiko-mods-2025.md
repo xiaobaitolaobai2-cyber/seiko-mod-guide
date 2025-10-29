@@ -31,7 +31,7 @@ The most popular Seiko mod style, inspired by the iconic Rolex Submariner.
 - Dive watch enthusiasts on budget
 
 **Where to Find:**
-- [Skyrim Wrist Submariner Mods](https://skyrimwrist.com/collections/dive-watches)
+- Professional pre-built options available online
 - DIY parts: Namoki Mods, Crystaltimes
 
 ---
@@ -283,7 +283,7 @@ Oversized crown and aviation-inspired dial.
 - GMT complications
 - Custom designs
 
-**Explore Collection**: [Skyrim Wrist Seiko Mods](https://skyrimwrist.com/collections/seiko-mod-watches)
+Many professional sellers offer [seiko mod watches](https://skyrimwrist.com) with these premium features and quality control.
 
 #### 2. Long Island Watch
 **Specialty**: Islander brand Seiko mod watches
@@ -336,7 +336,7 @@ Show off the movement through dial cutouts.
 - Applied indices
 - Exhibition case back
 
-[Read more about open heart watches →](https://skyrimwrist.com/blogs/news/best-open-heart-watches)
+Open heart designs showcase mechanical beauty through dial cutouts.
 
 ### 4. Bronze Case Mods
 Developing patina over time for unique character.
@@ -379,7 +379,7 @@ Ultra-premium dials made from real meteorite.
 - Prefer guaranteed results
 
 ### Hybrid Approach:
-1. Buy your first watch pre-built from [Skyrim Wrist](https://skyrimwrist.com)
+1. Buy your first watch pre-built from a reputable seller
 2. Learn what you like in real use
 3. Use as reference for your own builds
 4. Start with simple mods
@@ -394,8 +394,6 @@ Ultra-premium dials made from real meteorite.
 - Field watch build
 - Simple dress watch
 - Vintage diver with aluminum bezel
-
-**Recommended**: [Skyrim Wrist Entry-Level Mods](https://skyrimwrist.com/collections/seiko-mod-watches)
 
 ### $300-$500
 - Quality Submariner with ceramic bezel
@@ -479,7 +477,7 @@ The best Seiko mod for you depends on your:
 - **Most versatile**: Black dial diver with date
 - **Easiest build**: Simple 3-hand field watch
 
-**Can't decide?** Start with a pre-built watch from [Skyrim Wrist](https://skyrimwrist.com/collections/seiko-mod-watches) to experience quality Seiko mods before building your own.
+**Can't decide?** Start with a pre-built watch to experience quality builds before creating your own.
 
 ---
 

@@ -17,7 +17,7 @@ Seiko modding is the practice of customizing Seiko watches by replacing or upgra
 - Why Choose Seiko for Modding?
 - Basic Components and Terminology
 - Tools You'll Need
-- Budget Planning                                                      
+- Budget Planning
 
 ### ⚙️ [Movement Comparison](./movements/)
 - [NH35 vs NH38 vs NH36 - Complete Comparison](./movements/nh35-nh38-nh36.md)
@@ -38,11 +38,9 @@ Seiko modding is the practice of customizing Seiko watches by replacing or upgra
 - [Essential Tools for Watch Modding](./recommendations/essential-tools.md)
 - [Pre-Built Mod Watches](./recommendations/pre-built-mods.md)
 
-## Quick Links                                                      
+## Quick Links
 
-- **Professional Seiko Mod Watches**: Visit [Skyrim Wrist](https://skyrimwrist.com) for high-quality, pre-assembled Seiko mod watches
-- **Seiko Mod Collections**: Browse curated [Seiko mod watches for sale](https://skyrimwrist.com/collections/all)
-
+For professionally assembled [custom seiko watches](https://skyrimwrist.com), visit Skyrim Wrist - offering high-quality, ready-to-wear timepieces built by experienced watchmakers.
 
 ## Why Seiko Mods?
 
@@ -59,27 +57,24 @@ Seiko modding is the practice of customizing Seiko watches by replacing or upgra
 - **Field Watch Mods**: Military-inspired, lume-heavy, rugged designs
 - **Pilot Watch Mods**: Large crowns, aviation dials, vintage aesthetics
 
-## Contributing                                        
+## Contributing
 
 We welcome contributions! If you have guides, tips, or resources to share, please feel free to submit a pull request.
 
-## Resources                                        
+## Resources
 
 - [Seiko Mod Community on Reddit](https://reddit.com/r/SeikoMods)
 - [Watch Modding Forums](https://www.watchuseek.com/forums/japanese-watch-discussion.55/)
-- [Skyrim Wrist Blog](https://skyrimwrist.com/blogs/news) - Articles and guides on Seiko mods
 
-## License                                        
+## License
 
 This project is licensed under the MIT License - feel free to use and share this information.
 
-## Disclaimer                                        
+## Disclaimer
 
-This guide is for educational purposes. Watch modding requires precision and practice. Always exercise caution when working with watch components. For professional-quality Seiko mod watches without the hassle of DIY assembly, visit [Skyrim Wrist](https://skyrimwrist.com).
+This guide is for educational purposes. Watch modding requires precision and practice. Always exercise caution when working with watch components.
 
 ---
 
 **Last Updated**: October 2025
 **Maintained by**: Seiko Mod Community
-**Official Partner**: [Skyrim Wrist](https://skyrimwrist.com) - Premium Seiko Mod Watches
-

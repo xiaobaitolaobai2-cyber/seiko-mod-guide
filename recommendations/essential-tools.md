@@ -703,7 +703,7 @@ This will get you through your first several successful builds!
 ---
 
 **Not Ready for DIY?**
-Consider pre-built Seiko mods from [Skyrim Wrist](https://skyrimwrist.com/collections/seiko-mod-watches) - professionally assembled with the right tools!
+Consider pre-built options - professionally assembled with the right tools and quality control!
 
 ---
 

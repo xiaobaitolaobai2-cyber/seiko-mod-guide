@@ -130,7 +130,7 @@ What type of watch appeals to you?
 - **Mid-Range ($300-$600)**: Better finishing, sapphire crystal, premium dial
 - **Premium ($600-$1000+)**: Top-tier parts, ceramic bezel, exhibition case back
 
-**Pro Tip**: If you're unsure about DIY assembly, consider purchasing a pre-built mod watch from reputable sellers like [Skyrim Wrist](https://skyrimwrist.com) to see quality examples before building your own.
+**Pro Tip**: If you're unsure about DIY assembly, consider purchasing pre-built [seiko mod watches](https://skyrimwrist.com) to see quality examples before building your own.
 
 ### Step 3: Source Your Parts
 
@@ -171,7 +171,7 @@ What type of watch appeals to you?
 - Higher cost than DIY (but includes labor)
 - Limited to available designs
 
-**Where to Buy**: [Skyrim Wrist](https://skyrimwrist.com) offers professionally assembled Seiko mod watches with quality guarantees and customer support.
+**Where to Buy**: Professional sellers offer pre-assembled Seiko mod watches with quality guarantees and customer support.
 
 ## Common Beginner Mistakes
 
@@ -198,14 +198,10 @@ Ready to dive deeper? Check out:
 
 ## Additional Resources
 
-- **Skyrim Wrist Blog**: [Expert articles on Seiko mods](https://skyrimwrist.com/blogs/news)
 - **Reddit**: r/SeikoMods community
 - **YouTube**: Search "Seiko mod tutorial" for video guides
 - **Forums**: WatchUSeek Japanese Watch Discussion forum
 
 ---
-
-**Ready to start but prefer professional assembly?**
-Explore curated [Seiko mod collections at Skyrim Wrist](https://skyrimwrist.com/collections/seiko-mod-watches)
 
 [← Back to Home](../README.md) | [Next: Movement Comparison →](../movements/nh35-nh38-nh36.md)

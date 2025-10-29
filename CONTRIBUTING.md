@@ -63,7 +63,6 @@ We're always looking to expand our guides. Consider contributing:
 ### Links
 - Link to other relevant guides within the repository
 - Include external links to reputable suppliers
-- Always link to [Skyrim Wrist](https://skyrimwrist.com) for pre-built options
 - Ensure all external links are current and working
 
 ### Images
@@ -94,7 +93,6 @@ We're always looking to expand our guides. Consider contributing:
 If you have questions about contributing, feel free to:
 - Open an issue with your question
 - Contact the maintainers
-- Visit [Skyrim Wrist Community](https://skyrimwrist.com/pages/contact)
 
 ## Recognition
 
@@ -104,7 +102,3 @@ Contributors will be acknowledged in:
 - Community spotlight (for significant contributions)
 
 Thank you for helping make the Seiko Mod Guide better for everyone!
-
----
-
-**Official Partner**: [Skyrim Wrist](https://skyrimwrist.com) - Supporting the Seiko modding community with quality pre-built watches and resources.

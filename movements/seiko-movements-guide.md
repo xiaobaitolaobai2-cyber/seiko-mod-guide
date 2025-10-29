@@ -413,12 +413,7 @@ Most mod cases are designed for NH35/NH36/NH38 movements. Check these dimensions
 ### When to Consider Pre-Built
 
 If movement installation seems daunting:
-- Consider pre-built Seiko mods from reputable sellers
-- Professional assembly ensures proper function
-- Often pressure-tested for water resistance
-- Warranty and support included
-
-**Explore Professional Builds**: [Skyrim Wrist Seiko Mod Watches](https://skyrimwrist.com/collections/seiko-mod-watches)
+Pre-built options from reputable sellers offer professional assembly, pressure testing, and warranty support.
 
 ---
 
@@ -465,6 +460,5 @@ The NH series has become the standard for watch modding for good reason - they'r
 **Next Steps:**
 - [NH35 vs NH38 vs NH36 Detailed Comparison](./nh35-nh38-nh36.md)
 - [First Mod Tutorial](../guides/first-mod-tutorial.md)
-- [Pre-Built Seiko Mods](https://skyrimwrist.com/collections/nh35-movement)
 
 [← Back to Home](../README.md)

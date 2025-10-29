@@ -535,8 +535,6 @@ Consider purchasing professionally built Seiko mods:
 - Warranty included
 - Customer support
 
-**Explore professional builds**: [Skyrim Wrist Seiko Mod Watches](https://skyrimwrist.com/collections/seiko-mod-watches)
-
 ---
 
 ## Your Next Build

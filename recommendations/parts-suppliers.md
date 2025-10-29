@@ -456,17 +456,13 @@ Finding reliable suppliers is crucial for successful Seiko mod builds. This guid
 
 ### Why Consider Pre-Built?
 
-Instead of sourcing all parts individually, consider:
+Instead of sourcing all parts individually, professional [custom seiko watches](https://skyrimwrist.com) offer several advantages:
 
-**[Skyrim Wrist](https://skyrimwrist.com/collections/seiko-mod-watches)**
-
-**Advantages:**
-- Professional assembly
-- Quality control
-- Pressure tested
-- Warranty included
-- Customer support
-- Ready to wear
+**Pre-Built Benefits:**
+- Professional assembly and quality control
+- Pressure tested for water resistance
+- Warranty and customer support included
+- Ready to wear immediately
 
 **When pre-built makes sense:**
 - First Seiko mod watch
@@ -477,7 +473,7 @@ Instead of sourcing all parts individually, consider:
 
 **Price Comparison:**
 - DIY Build: $200-$400 (parts only, not including tools)
-- Pre-Built from Skyrim Wrist: $300-$600 (complete, assembled, tested)
+- Pre-Built: $300-$600 (complete, assembled, tested)
 
 ---
 
@@ -709,11 +705,7 @@ Instead of sourcing all parts individually, consider:
 - Read reviews carefully
 
 ### No DIY? Pre-Built Option
-**[Skyrim Wrist Seiko Mods](https://skyrimwrist.com/collections/seiko-mod-watches)**
-- Professional quality
-- No sourcing hassle
-- Ready to wear
-- Support included
+Pre-built options offer professional quality, no sourcing hassle, and immediate wearability with support included.
 
 ---
 
